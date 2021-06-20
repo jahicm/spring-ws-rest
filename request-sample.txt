@@ -1,0 +1,2 @@
+{"username":"mirza","password":"123","authorities":"ROLE_ADMIN","enabled":"true"} - json request add new administrator 
+{"id":"1","name":"Mary Ann","testScore":"43"} - json request save new student
