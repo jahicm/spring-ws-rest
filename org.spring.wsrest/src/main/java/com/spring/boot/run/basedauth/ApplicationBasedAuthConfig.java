@@ -52,7 +52,7 @@ public class ApplicationBasedAuthConfig extends WebSecurityConfigurerAdapter {
 		dataSource.setDriverClassName("org.h2.Driver");
 		dataSource.setUrl("jdbc:h2:~/testdb");
 		dataSource.setUsername("sa");
-		dataSource.setPassword("password");
+		dataSource.setPassword("sa");
 
 		return dataSource;
 	}
